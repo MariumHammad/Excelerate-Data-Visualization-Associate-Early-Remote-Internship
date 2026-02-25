@@ -1,0 +1,2 @@
+# Excelerate-Data-Visualization-Associate-Early-Remote-Internship
+As part of my internship, I leveraged PostgreSQL to perform data cleansing, transformation, advanced querying, and KPI development to produce validated, analysis-ready datasets. The refined data was then utilized to develop an interactive Looker Studio dashboard, delivering actionable insights and supporting strategic, data-driven decision-making.
